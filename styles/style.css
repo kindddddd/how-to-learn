@@ -253,7 +253,6 @@
 }
 
 .kaufman__triangle {
-  z-index: 0;
   position: absolute;
   top: 0px;
   right: -210px;
