@@ -1,8 +1,6 @@
 .header__tittle {
     box-sizing: border-box;
     max-width: 730px;
-    display: flex;
-    align-items: center;
     font-size: 102px;
     font-weight: 600;
     line-height: 96px;
